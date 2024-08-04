@@ -1,3 +1,3 @@
 # gitdemo
-This is my first repository
+This is my first Git Repository.
 Author - KartikSanwal
