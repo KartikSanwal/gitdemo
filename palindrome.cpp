@@ -6,12 +6,12 @@ int main(){
     cout<<"Enter the value of n:";
     cin>>n;
 
-    for(temp=n; temp!=0; temp=temp/10)
+    for( temp=n; temp!=0; temp=temp/10)
     {
         r=temp%10;
         rev=rev*10+r;
     }
-    if(rev==n)
+    if(n==rev)
     {
         cout<<"palindrome";
 
